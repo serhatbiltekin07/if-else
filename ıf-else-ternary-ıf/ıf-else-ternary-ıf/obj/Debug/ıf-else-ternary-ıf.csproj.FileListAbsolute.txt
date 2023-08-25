@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\bin\Debug\ıf-else-ternary-ıf.exe.config
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\bin\Debug\ıf-else-ternary-ıf.exe
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\bin\Debug\ıf-else-ternary-ıf.pdb
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\obj\Debug\ıf-else-ternary-ıf.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\obj\Debug\ıf-else-ternary-ıf.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\obj\Debug\ıf-else-ternary-ıf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\obj\Debug\ıf-else-ternary-ıf.exe
+C:\Users\user\Desktop\projeler\ıf-else-ternary-ıf\ıf-else-ternary-ıf\obj\Debug\ıf-else-ternary-ıf.pdb
